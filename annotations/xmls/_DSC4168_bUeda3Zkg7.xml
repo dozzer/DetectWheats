@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4168_bUeda3Zkg7.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>438</xmin>
+		<xmax>501</xmax>
+		<ymin>266</ymin>
+		<ymax>338</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-damaged-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>315</xmin>
+		<xmax>442</xmax>
+		<ymin>189</ymin>
+		<ymax>361</ymax>
+	</bndbox>
+</object>
+</annotation>

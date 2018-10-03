@@ -1,0 +1,52 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4155_5Dnn0PDqQh.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>208</xmin>
+		<xmax>297</xmax>
+		<ymin>389</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-damaged-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>61</xmin>
+		<xmax>173</xmax>
+		<ymin>0</ymin>
+		<ymax>95</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>71</xmax>
+		<ymin>0</ymin>
+		<ymax>136</ymax>
+	</bndbox>
+</object>
+</annotation>

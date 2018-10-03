@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4168_HR0Nt1CqrC.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>243</xmin>
+		<xmax>352</xmax>
+		<ymin>316</ymin>
+		<ymax>419</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>280</xmin>
+		<xmax>361</xmax>
+		<ymin>275</ymin>
+		<ymax>347</ymax>
+	</bndbox>
+</object>
+</annotation>

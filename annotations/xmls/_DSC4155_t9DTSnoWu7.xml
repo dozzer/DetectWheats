@@ -1,0 +1,26 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4155_t9DTSnoWu7.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>352</xmax>
+		<ymin>276</ymin>
+		<ymax>490</ymax>
+	</bndbox>
+</object>
+</annotation>

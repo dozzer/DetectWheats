@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_ua3S9Cu66m.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>387</xmin>
+		<xmax>511</xmax>
+		<ymin>262</ymin>
+		<ymax>405</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>68</xmin>
+		<xmax>495</xmax>
+		<ymin>0</ymin>
+		<ymax>265</ymax>
+	</bndbox>
+</object>
+</annotation>

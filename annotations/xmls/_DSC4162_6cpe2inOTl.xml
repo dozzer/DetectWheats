@@ -1,0 +1,104 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_6cpe2inOTl.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>390</xmin>
+		<xmax>511</xmax>
+		<ymin>127</ymin>
+		<ymax>224</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>26</xmin>
+		<xmax>213</xmax>
+		<ymin>440</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>112</xmin>
+		<xmax>278</xmax>
+		<ymin>406</ymin>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>38</xmin>
+		<xmax>186</xmax>
+		<ymin>289</ymin>
+		<ymax>438</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Peel-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>93</xmax>
+		<ymin>214</ymin>
+		<ymax>300</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>35</xmax>
+		<ymin>318</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>260</xmin>
+		<xmax>336</xmax>
+		<ymin>449</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+</annotation>

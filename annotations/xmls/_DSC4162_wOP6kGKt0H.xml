@@ -1,0 +1,26 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_wOP6kGKt0H.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain-damaged-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>98</xmin>
+		<xmax>165</xmax>
+		<ymin>469</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+</annotation>

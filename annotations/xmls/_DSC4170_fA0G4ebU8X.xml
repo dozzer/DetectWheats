@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4170_fA0G4ebU8X.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>355</xmin>
+		<xmax>431</xmax>
+		<ymin>367</ymin>
+		<ymax>450</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>349</xmin>
+		<xmax>418</xmax>
+		<ymin>458</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+</annotation>

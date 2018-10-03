@@ -1,0 +1,52 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4168_hROLmI7abm.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>467</xmin>
+		<xmax>511</xmax>
+		<ymin>132</ymin>
+		<ymax>222</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>94</xmin>
+		<xmax>139</xmax>
+		<ymin>234</ymin>
+		<ymax>302</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>216</xmin>
+		<xmax>288</xmax>
+		<ymin>130</ymin>
+		<ymax>174</ymax>
+	</bndbox>
+</object>
+</annotation>

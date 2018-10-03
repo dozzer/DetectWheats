@@ -1,0 +1,91 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4168_UDleLdKPbK.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>258</xmin>
+		<xmax>361</xmax>
+		<ymin>408</ymin>
+		<ymax>502</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>117</xmin>
+		<xmax>190</xmax>
+		<ymin>283</ymin>
+		<ymax>378</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>32</xmin>
+		<xmax>115</xmax>
+		<ymin>425</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>324</xmin>
+		<xmax>422</xmax>
+		<ymin>143</ymin>
+		<ymax>210</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>108</xmin>
+		<xmax>181</xmax>
+		<ymin>242</ymin>
+		<ymax>292</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>339</xmin>
+		<xmax>412</xmax>
+		<ymin>472</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+</annotation>

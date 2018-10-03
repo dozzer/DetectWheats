@@ -1,0 +1,78 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4168_4bXZhVBeaH.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>271</xmin>
+		<xmax>389</xmax>
+		<ymin>35</ymin>
+		<ymax>130</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>25</xmin>
+		<xmax>126</xmax>
+		<ymin>397</ymin>
+		<ymax>477</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>18</xmin>
+		<xmax>104</xmax>
+		<ymin>307</ymin>
+		<ymax>370</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>285</xmin>
+		<xmax>365</xmax>
+		<ymin>315</ymin>
+		<ymax>373</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Fallopia-Convolvulus-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>253</xmin>
+		<xmax>310</xmax>
+		<ymin>217</ymin>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+</annotation>

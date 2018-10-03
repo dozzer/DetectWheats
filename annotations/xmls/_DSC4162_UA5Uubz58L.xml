@@ -1,0 +1,78 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_UA5Uubz58L.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>120</xmin>
+		<xmax>285</xmax>
+		<ymin>63</ymin>
+		<ymax>242</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>138</xmin>
+		<xmax>373</xmax>
+		<ymin>338</ymin>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>178</xmin>
+		<xmax>400</xmax>
+		<ymin>448</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>476</xmin>
+		<xmax>511</xmax>
+		<ymin>248</ymin>
+		<ymax>328</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-poly</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>477</xmin>
+		<xmax>511</xmax>
+		<ymin>98</ymin>
+		<ymax>193</ymax>
+	</bndbox>
+</object>
+</annotation>
