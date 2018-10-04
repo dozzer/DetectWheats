@@ -1,0 +1,65 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4176_VMoKkC08Vu.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>475</xmin>
+		<xmax>511</xmax>
+		<ymin>275</ymin>
+		<ymax>380</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>369</xmin>
+		<xmax>479</xmax>
+		<ymin>290</ymin>
+		<ymax>411</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>172</xmin>
+		<xmax>287</xmax>
+		<ymin>291</ymin>
+		<ymax>393</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>44</xmin>
+		<xmax>158</xmax>
+		<ymin>228</ymin>
+		<ymax>336</ymax>
+	</bndbox>
+</object>
+</annotation>

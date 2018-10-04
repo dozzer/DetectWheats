@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'Convolvulus'
+}
+
+item {
+  id: 2
+  name: 'Fallopia-Convolvulus'
+}
+
+item {
+  id: 3
+  name: 'Peel'
+}
+
+item {
+  id: 4
+  name: 'Agrostemma'
+}
+
+item {
+  id: 5
+  name: 'Wheat-grain-damaged'
+}
+
+item {
+  id: 6
+  name: 'Wheat-grain'
+}

@@ -1,0 +1,26 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_p7go7W1fCJ.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>307</xmin>
+		<xmax>434</xmax>
+		<ymin>0</ymin>
+		<ymax>54</ymax>
+	</bndbox>
+</object>
+</annotation>

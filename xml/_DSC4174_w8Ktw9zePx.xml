@@ -1,0 +1,65 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4174_w8Ktw9zePx.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>100</xmin>
+		<xmax>152</xmax>
+		<ymin>0</ymin>
+		<ymax>7</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>213</xmin>
+		<xmax>300</xmax>
+		<ymin>0</ymin>
+		<ymax>104</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>24</xmin>
+		<xmax>117</xmax>
+		<ymin>436</ymin>
+		<ymax>508</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>232</xmin>
+		<xmax>324</xmax>
+		<ymin>394</ymin>
+		<ymax>475</ymax>
+	</bndbox>
+</object>
+</annotation>

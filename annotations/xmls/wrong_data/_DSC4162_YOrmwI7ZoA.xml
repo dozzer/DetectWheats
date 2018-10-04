@@ -1,0 +1,221 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_YOrmwI7ZoA.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain-damaged</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>321</xmin>
+		<xmax>443</xmax>
+		<ymin>428</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain-damaged</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>287</xmin>
+		<xmax>373</xmax>
+		<ymin>398</ymin>
+		<ymax>486</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>444</xmin>
+		<xmax>511</xmax>
+		<ymin>361</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>481</xmin>
+		<xmax>511</xmax>
+		<ymin>187</ymin>
+		<ymax>350</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>277</xmin>
+		<xmax>506</xmax>
+		<ymin>53</ymin>
+		<ymax>160</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>229</xmin>
+		<xmax>467</xmax>
+		<ymin>149</ymin>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>172</xmin>
+		<xmax>373</xmax>
+		<ymin>313</ymin>
+		<ymax>456</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>13</xmin>
+		<xmax>174</xmax>
+		<ymin>415</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>71</xmax>
+		<ymin>300</ymin>
+		<ymax>469</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>91</xmin>
+		<xmax>193</xmax>
+		<ymin>110</ymin>
+		<ymax>350</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>276</xmin>
+		<xmax>499</xmax>
+		<ymin>246</ymin>
+		<ymax>331</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>32</xmax>
+		<ymin>181</ymin>
+		<ymax>321</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>46</xmax>
+		<ymin>25</ymin>
+		<ymax>93</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>446</xmin>
+		<xmax>509</xmax>
+		<ymin>0</ymin>
+		<ymax>22</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>60</xmin>
+		<xmax>127</xmax>
+		<ymin>338</ymin>
+		<ymax>414</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>369</xmin>
+		<xmax>470</xmax>
+		<ymin>336</ymin>
+		<ymax>410</ymax>
+	</bndbox>
+</object>
+</annotation>

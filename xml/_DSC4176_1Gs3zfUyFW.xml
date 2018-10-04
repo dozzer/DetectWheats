@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4176_1Gs3zfUyFW.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>239</xmin>
+		<xmax>339</xmax>
+		<ymin>179</ymin>
+		<ymax>274</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Agrostemma</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>61</xmin>
+		<xmax>160</xmax>
+		<ymin>312</ymin>
+		<ymax>430</ymax>
+	</bndbox>
+</object>
+</annotation>

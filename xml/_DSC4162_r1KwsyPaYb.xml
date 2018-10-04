@@ -1,0 +1,26 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_r1KwsyPaYb.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>420</xmin>
+		<xmax>511</xmax>
+		<ymin>113</ymin>
+		<ymax>216</ymax>
+	</bndbox>
+</object>
+</annotation>

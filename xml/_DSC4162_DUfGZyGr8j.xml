@@ -1,0 +1,52 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_DUfGZyGr8j.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>57</xmax>
+		<ymin>142</ymin>
+		<ymax>165</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Peel</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>34</xmin>
+		<xmax>277</xmax>
+		<ymin>0</ymin>
+		<ymax>105</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>91</xmax>
+		<ymin>36</ymin>
+		<ymax>123</ymax>
+	</bndbox>
+</object>
+</annotation>

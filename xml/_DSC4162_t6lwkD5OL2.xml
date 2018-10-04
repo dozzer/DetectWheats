@@ -1,0 +1,91 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_t6lwkD5OL2.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>464</xmin>
+		<xmax>511</xmax>
+		<ymin>504</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>393</xmin>
+		<xmax>504</xmax>
+		<ymin>306</ymin>
+		<ymax>500</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>412</xmin>
+		<xmax>511</xmax>
+		<ymin>187</ymin>
+		<ymax>337</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>501</xmin>
+		<xmax>511</xmax>
+		<ymin>389</ymin>
+		<ymax>478</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>399</xmin>
+		<xmax>511</xmax>
+		<ymin>0</ymin>
+		<ymax>190</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Convolvulus</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>109</xmin>
+		<xmax>224</xmax>
+		<ymin>314</ymin>
+		<ymax>396</ymax>
+	</bndbox>
+</object>
+</annotation>

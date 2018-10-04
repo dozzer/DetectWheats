@@ -1,0 +1,39 @@
+<annotation>
+<folder>json</folder>
+<filename>_DSC4162_tLeZyNe7zj.jpg</filename>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>512</width>
+	<height>512</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Peel</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>57</xmin>
+		<xmax>380</xmax>
+		<ymin>340</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Wheat-grain</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>400</xmin>
+		<xmax>511</xmax>
+		<ymin>479</ymin>
+		<ymax>511</ymax>
+	</bndbox>
+</object>
+</annotation>
