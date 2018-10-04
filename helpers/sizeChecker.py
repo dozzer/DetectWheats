@@ -21,7 +21,7 @@ move = True
 # Directories
 # train_directory = './images/train'  # It should contain the xml files with bounding boxes
 # test_directory = './images/test'  # It should contain the xml files with bounding boxes
-directory = '../ann'
+directory = '../annotations'
 
 # Keep calm and do not touch the rest of the code :3
 parser = argparse.ArgumentParser()

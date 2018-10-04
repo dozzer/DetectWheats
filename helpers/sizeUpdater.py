@@ -11,9 +11,9 @@ import argparse
 # Directories
 # train_directory = 'train/wrong_data'  # It should contain the xml files with bounding boxes
 # test_directory = 'test/wrong_data'  # It should contain the xml files with bounding boxes
-input_folder = "../ann/wrong_data"
+input_folder = "../annotations/wrong_data"
 
-out_folder = "../ann/wrong_data/fixed"
+out_folder = "../annotations/wrong_data/fixed"
 
 if not isdir(input_folder):
     print(colored('[!]', 'yellow', attrs=['bold']), colored('The training or test directories do not exist'))
