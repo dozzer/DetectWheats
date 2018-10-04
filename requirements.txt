@@ -3,3 +3,5 @@ lxml
 jupyter
 matplotlib
 opencv-python
+Cython
+pycocotools
