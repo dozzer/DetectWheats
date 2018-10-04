@@ -5,7 +5,8 @@ from urllib.request import urlopen
 import os
 
 import numpy as np
-import cv2
+# import cv2
+from PIL import Image
 from matplotlib import pyplot as plt
 # import glob
 
@@ -29,12 +30,11 @@ def visualize_bbox(img, bbox, color=BOX_COLOR, thickness=2):
 
 def visualize(annotations, id):
     img = annotations['image'].copy()
-    for idx, bbox in enumerate(annotations['bboxes']):
-        img = visualize_bbox(img, bbox)
-    plt.figure(figsize=(3, 3))
-    ax1 = fig.add_subplot(3, 3, id)
-    ax1.imshow(img)
-
+    # for idx, bbox in enumerate(annotations['bboxes']):
+    #     img = visualize_bbox(img, bbox)
+    # plt.figure(figsize=(3, 3))
+    # plt.imshow(img)
+    img.show()
 # ----------------
 
 limit = 4
@@ -59,7 +59,9 @@ for tree in [ann_folder]:
             bboxes.append(box)
         img_file = img_folder + "/" + os.path.splitext(os.path.split(file)[1])[0] + ".jpg"
         # print(img_file)
-        img = cv2.imread(img_file, cv2.COLOR_BGR2RGB)
+        # img = cv2.imread(img_file, cv2.COLOR_BGR2RGB)
+        img = Image.open(img_file)
+        # >> > img.show()
         annotations = {'image': img, 'bboxes': bboxes, 'category_id': [18, 17]}
         visualize(annotations, counter + 1)
         counter = counter + 1
