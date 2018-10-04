@@ -10,7 +10,7 @@ for tree in [ann_folder]:
     print(xmlFiles(tree + '/*.xml'))
     for file in xmlFiles(tree + '/*.xml'):
         base = os.path.basename(file)
-        out += str(base) + "\n"
+        out += str(os.path.splitext(base)[0]) + "\n"
 
 text_file = open(os.path.join(save_folder, file_name), "w")
 text_file.write(out)
