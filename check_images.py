@@ -32,8 +32,7 @@ def visualize(annotations, id):
     for idx, bbox in enumerate(annotations['bboxes']):
         img = visualize_bbox(img, bbox)
     plt.figure(figsize=(3, 3))
-    ax1 = fig.add_subplot(3, 3, id)
-    ax1.imshow(img)
+    plt.imshow(img)
 
 # ----------------
 
